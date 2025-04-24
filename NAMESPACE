@@ -1,0 +1,8 @@
+useDynLib(KDEmcmc)
+import(Rcpp)
+importFrom("graphics", "hist", "legend", "lines")
+importFrom("methods", "new")
+importFrom("stats", "density", "optimize")
+exportPattern("^[[:alpha:]]+")
+S3method(print,mBCV_obj)
+S3method(plot,mBCV_obj)

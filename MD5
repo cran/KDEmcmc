@@ -1,0 +1,17 @@
+35f45f618a760a4928c5e7d3d9f135a4 *DESCRIPTION
+22c6ea85c50334b41c2a9be98514b13a *NAMESPACE
+b0e1c8f0145b4f6935781ba82e96ca1b *R/LoadModule.R
+226dc8c529675bb65de836083aed8635 *R/mBCV_functions.R
+8edf9b20955ac9698bdc7dd34744f6b7 *data/simMCMC.rda
+5e63da41fc83ba81ff3f15ca4e02d55b *man/Rcpp_cKDE-class.Rd
+7c27c9463dbe2d117fab724fe740e0f7 *man/cKDE.Rd
+ae6237f4c4461389932b4f27ad80489d *man/mBCV.Rd
+284638b7674c12b96d225ad086442e3c *man/plot.mBCV_obj.Rd
+9bc5ee1f955bc859fd75e3096ccb2f66 *man/simMCMC.Rd
+e07f3e780c4f86e35ddd2dd387f131bd *src/1_Main.cpp
+b046edd5d630da7bd7976bf5b88b5d7b *src/1_Main.h
+d8a25ad464d7532fd9fdb5200ab26d82 *src/2_Data.cpp
+3a4fcf9260eb8dcad4596f8c86e76730 *src/2_Data.h
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+8d46d69896a1f1d31ed76035a0e49d67 *src/Makevars.win
+a82a0a98d2df961ff2a62d7aaf636be8 *src/RcppExports.cpp
