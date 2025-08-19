@@ -5,7 +5,7 @@
 Calculate Optimal Bandwidth in Kernel Density Estimation
 }
 \description{
-Calculate the optimal bandwidth for the kernel density estimator with a Markov chain Monte Carlo sample using modified biased cross-validation method.
+Calculate the optimal bandwidth estimate for the kernel density estimator with a Markov chain Monte Carlo sample using modified biased cross-validation method.
 }
 \usage{
 mBCV(Y_in)

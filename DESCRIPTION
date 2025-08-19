@@ -1,8 +1,8 @@
 Package: KDEmcmc
 Type: Package
 Title: Kernel Density Estimation with a Markov Chain Monte Carlo Sample
-Version: 0.0.1
-Date: 2025-04-21
+Version: 0.0.2
+Date: 2025-08-19
 Authors@R: c(person("Juhee", "Lee", role = c("aut", "cre"),
                     email = "ljh988488@gmail.com"),
              person("Hang J.", "Kim", role = "aut"),
@@ -17,9 +17,9 @@ LazyData: true
 RcppModules: cKDEmodule
 NeedsCompilation: yes
 RoxygenNote: 7.3.2
-Packaged: 2025-04-21 09:44:43 UTC; user
+Packaged: 2025-08-19 01:15:40 UTC; user
 Author: Juhee Lee [aut, cre],
   Hang J. Kim [aut],
   Young-Min Kim [aut]
 Repository: CRAN
-Date/Publication: 2025-04-24 07:30:01 UTC
+Date/Publication: 2025-08-19 04:50:02 UTC
